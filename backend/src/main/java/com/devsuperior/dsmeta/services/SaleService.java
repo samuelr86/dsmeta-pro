@@ -28,6 +28,6 @@ public class SaleService {
 		
 		
 		
-		return  repository.findSales (min, max, pageable);
+		return  repository.findSales(min, max, pageable);
 	}
 }
