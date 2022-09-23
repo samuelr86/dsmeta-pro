@@ -24,6 +24,9 @@
     <fullyQualifiedTypeName name="com.twilio.type.PhoneNumber"/>
     <fullyQualifiedTypeName name="com.twilio.rest.conversations.v1.conversation.Message"/>
     <fullyQualifiedTypeName name="com.twilio.rest.api.v2010.account.Message"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
 </qualifiedTypeNameHistroy>
